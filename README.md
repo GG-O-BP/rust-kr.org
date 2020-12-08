@@ -1,10 +1,10 @@
-[rust-kr.org]
+[rust-kr.org - GGOBP]
 ========
-한국 러스트 사용자 그룹 홈페이지의 소스코드 입니다.
+한국 러스트 사용자 그룹 홈페이지의 소스코드의 포크입니다.
 
 ```bash
-zola build
-zola serve
+cargo check
+cargo run
 ```
 
 <br>
