@@ -1,0 +1,9 @@
+# https://www.getzola.org/documentation/getting-started/configuration/
+
+base_url = "https://rust-kr.org"
+compile_sass = false
+highlight_theme = "inspired-github"
+build_search_index = true
+
+[markdown]
+highlight_code = true
