@@ -8,4 +8,7 @@ edition = "2018"
 
 [dependencies]
 rocket = "*"
+rocket_contrib = "*"
 maud = { vsrsion = "*", features = ["rocket"]}
+ammonia = "*"
+pulldown-cmark = "*"
