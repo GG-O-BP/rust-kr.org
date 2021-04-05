@@ -26,9 +26,8 @@ NOTE: 코딩모임이 열린다면 주석처리된 아래의 코드를 되살리
 디스코드와 연결된 <span class="custom-tooltip">IRC 채널<irc://irc.ozinger.org/#rust></span>도 운영하고있습니다.
 
 - [설치하기](/pages/install)
-- [러스트 공식 안내서: "The Rust Programming Language"](https://doc.rust-lang.org/stable/book/index.html) (영문)
+- [러스트 공식 안내서: "The Rust Programming Language"](https://doc.rust-lang.org/book/) (영문)
   - [2판 한국어 번역](https://rinthel.github.io/rust-lang-book-ko/)
-  - [1판 한국어 번역](https://www.penflip.com/sarojaba/rust-doc-korean/blob/master/readme.md)
 - ["Rust By Example" 한국어 번역](https://hanbum.gitbooks.io/rustbyexample/content/)
 - ["The Edition Guide" 한국어 번역](https://yegeun542.github.io/rust-edition-guide-ko/)
 - [행동 규칙]
@@ -37,16 +36,16 @@ NOTE: 코딩모임이 열린다면 주석처리된 아래의 코드를 되살리
 
 ##### 관련 링크 모음
 - **[러스트 공식 사이트][러스트]**
-- [러스트 소스코드], [Servo 소스코드]
+- [러스트 소스코드], [서보 소스코드]
 - [러스트 재단]
-- [러스트 통계], [Servo 통계]
+- [러스트 통계], [서보 통계]
 - [osdev]
 
-[러스트 소스코드]: https://www.github.com/rust-lang/rust
-[Servo 소스코드]: https://www.github.com/servo/servo
+[러스트 소스코드]: https://github.com/rust-lang/rust
+[서보 소스코드]: https://github.com/servo/servo
 [러스트 재단]: https://foundation.rust-lang.org/
 [러스트 통계]: http://ruststat.youknowone.org
-[Servo 통계]: http://servostat.youknowone.org
+[서보 통계]: http://servostat.youknowone.org
 [러스트]: https://www.rust-lang.org
 [모질라]: https://www.mozilla.org
 [디스코드]: https://discord.gg/uqXGjEz
